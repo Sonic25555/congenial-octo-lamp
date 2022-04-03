@@ -1,0 +1,33 @@
+body{
+    font-family:'Ephesis', cursive ;
+    background-color: bisque;
+}
+.header_div{
+    background-color:rgb(255, 96, 215);
+    color:rgb(44, 0, 70);
+}
+.header_div p{
+    font-family:'Ephesis', cursive;
+    color:darkred;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family:'Ephesis', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:darkviolet;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color: floralwhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px;
+}
